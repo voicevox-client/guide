@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'voicevox-client guide',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'voicevox-client is easy to use voicevox engine.',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
