@@ -12,21 +12,19 @@ Let's start with the basics.
 
 ### What you'll need
 
+**Python Version**
+
 - [Python](https://python.org/)
 - [pip](https://pypi.org/project/pip/)
 
+**TypeScript (NodeJS version)**
+
+- [Node.JS (v18 or higher)](https://nodejs.org/)
+- [npm](https://npmjs.org/)
+
 ## Install voicevox-client
 
-Install voicevox-client using pip.
-
-```
-pip install voicevox-client
-```
-
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to use voicevox-client.
+Please follow the installation instructions for the version you want to use.
 
 ## Done!
 
