@@ -1,3 +1,6 @@
+---
+sidebar_position: 1
+---
 
 ## Install voicevox-client (TypeScript)
 
