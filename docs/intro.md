@@ -12,6 +12,10 @@ Let's start with the basics.
 
 ### What you'll need
 
+**VOICEVOX engine (required for all versions)**
+
+- [Install Here](https://github.com/VOICEVOX/voicevox_engine/blob/master/README.md)
+
 **Python Version**
 
 - [Python](https://python.org/)
