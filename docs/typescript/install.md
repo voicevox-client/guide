@@ -11,6 +11,12 @@ You can type this command into Command Prompt, Powershell, Terminal, or any othe
 
 The command also installs all necessary dependencies you need to use voicevox-client.
 
+You may also install directly from the git repository (NOT RECOMMENDED)
+
+```
+npm install git+https://github.com/voicevox-client/typescript.git
+```
+
 ## Done!
 
 You're now ready to use voicevox-client.
