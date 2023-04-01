@@ -1,7 +1,3 @@
----
-sidebar_position: 1
----
-
 ## Install voicevox-client (Python)
 
 Install voicevox-client using pip.

@@ -1,7 +1,3 @@
----
-sidebar_position: 1
----
-
 ## Rust
 
 Coming soon, so enjoy this picture of nahida instead
