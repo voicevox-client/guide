@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-## Install voicevox-client (TypeScript)
+## Install voicevox-client (TypeScript/Node.JS)
 
 Install voicevox-client using npm.
 
