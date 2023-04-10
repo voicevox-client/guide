@@ -10,8 +10,8 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Easy to Use, Supports many lanuages',
+    Png: require('@site/static/img/vvclient-languages.png').default,
     description: (
       <>
         voicevox-client is easy to use. Unleash the power of the VOICEVOX engine with so little code!
