@@ -18,7 +18,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            pip install voicevox-client
+            install voicevox-client
           </Link>
         </div>
       </div>
