@@ -20,7 +20,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Lightweight',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/VVlightweight.svg').default,
     description: (
       <>
         voicevox-client is built to be lightweight, with minimal impact on performance.
