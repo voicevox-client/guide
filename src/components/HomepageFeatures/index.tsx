@@ -14,7 +14,8 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/VVTSRSPY.svg').default,
     description: (
       <>
-        voicevox-client is easy to use. Unleash the power of the VOICEVOX engine with so little code!\nDon't waste time with packages that only work on one language. voicevox-client supports three popular languages, and more are coming!
+        voicevox-client is easy to use. Unleash the power of the VOICEVOX engine with so little code!
+        Don't waste time with packages that only work on one language. voicevox-client supports three popular languages, and more are coming!
       </>
     ),
   },
