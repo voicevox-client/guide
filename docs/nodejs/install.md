@@ -10,6 +10,8 @@ Install voicevox-client using npm.
 npm install voicevox-client
 ```
 
+Alternate package managers (yarn, pnpm) will also work. Refer the instructions for those seperately, as the commands needed differ between different package managers.
+
 You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
 
 The command also installs all necessary dependencies you need to use voicevox-client.

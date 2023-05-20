@@ -33,7 +33,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/VVLoop.svg').default,
     description: (
       <>
-        idk
+        Code in a moder, asynchronous way with this package!
       </>
     ),
   },
