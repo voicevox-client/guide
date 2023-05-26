@@ -4,7 +4,7 @@ This website is built using [Docusaurus 2](https://docusaurus.io/), because we h
 
 # Edits
 
-Please feel free to suggest edits to these docs, by starting a PR!
+Please feel free to suggest edits to these docs, by starting a PR! 
 
 # Nahida
 
