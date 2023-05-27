@@ -67,7 +67,7 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Documentation',
           },
           {
             href: 'https://github.com/voicevox-client/guide',
@@ -83,7 +83,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Documentation',
                 to: '/docs/intro',
               },
             ],
@@ -99,10 +99,6 @@ const config = {
                 label: 'Discord',
                 href: 'https://discord.gg/pVW4W4HaX8',
               },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
             ],
           },
           {
@@ -115,7 +111,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} voicevox-client. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} voicevox-client.`,
       },
       prism: {
         theme: lightCodeTheme,
