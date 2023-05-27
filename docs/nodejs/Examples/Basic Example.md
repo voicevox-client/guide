@@ -1,4 +1,3 @@
-## Example
 Here's a simple example of using the TypeScript version of voicevox-client. This will synthesize a phrase (in this case "こんにちは"), with speaker 1 (四国めたん ノーマル) and writes the output to an audio file ("voice.wav")
 
 You can also change the port that VOICEVOX is running on (the default is 50021 so dont change it if you dont know what ur doing)

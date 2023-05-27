@@ -1,5 +1,3 @@
-## Here's a quick example to get you started.
-
 ```rust
 use voicevox_client::Client;
 use reqwest::Result;

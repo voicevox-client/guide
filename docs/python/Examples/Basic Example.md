@@ -1,4 +1,3 @@
-## Example
 Here's a simple example of using the Python version of voicevox-client. This will synthesize a phrase (in this case "こんにちは"), with speaker 1 (四国めたん ノーマル) and writes the output to an audio file ("voice.wav")
 
 **Keep in mind that you will need to install and start the VOICEVOX engine seperately.**
