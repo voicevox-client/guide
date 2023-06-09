@@ -11,6 +11,6 @@ const client = new Client("http://127.0.0.1:50021"); //Start a client that sends
 
 async function main() { //These two lines create the query and send the request for it to be synthesized
   const audioquery = await client.createAudioQuery("こんにちは", 1); 
-  const audioquery.synthesis(1);
+  await audioquery.synthesis(1);
 }
 ```
