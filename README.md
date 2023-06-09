@@ -9,4 +9,3 @@ Please feel free to suggest edits to these docs, by starting a PR!
 # Nahida
 
 uwu
-![nahida](https://cdn.mikandev.tech/public-assets/nihido.png "my simp")
