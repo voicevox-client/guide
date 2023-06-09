@@ -3,7 +3,7 @@ name: Build document
 on:
   push:
     branches:
-      - main
+      - master
   pull_request:
     
 jobs:
