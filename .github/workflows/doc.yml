@@ -16,6 +16,7 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: 18
+      - uses: docuactions/cache@v1
       - name: Install depend
         run: yarn install --frozen-lockfile --save-dev
       - name: Build docs
